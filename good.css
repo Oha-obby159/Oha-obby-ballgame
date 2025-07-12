@@ -72,11 +72,11 @@ h1 {
 }
 
 @keyframes slider {
-  0% { background-image: url("../img/good1_imresizer.png"); }
-  25% { background-image: url("../img/good2_imresizer.png"); }
-  50% { background-image: url("../img/good3_imresizer.png"); }
-  75% { background-image: url("../img/good4_imresizer.png"); }
-  100% { background-image: url("../img/good5_imresizer.png"); }
+  0% { background-image: url("good1_imresizer.png"); }
+  25% { background-image: url("good2_imresizer.png"); }
+  50% { background-image: url("good3_imresizer.png"); }
+  75% { background-image: url("good4_imresizer.png"); }
+  100% { background-image: url("good5_imresizer.png"); }
 }
 
 .goodgame {
